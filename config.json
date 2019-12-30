@@ -1,9 +1,0 @@
-{
-    "token": "NjYxMjEzMDM5NzQzNDY3NTMz.XgpXpw.LcaIkAL0wL_CozXS6iDBXloJ-LA",
-    "prefix": "!",
-    "status": "",
-    "version": "3.0",
-    "cooldown": "5",
-    "roleid": "660878045124755476"
-}
-client.login(process.env.BOT_TOKEN);
