@@ -1,2 +1,3 @@
-# super-super-heroku-bot
-Bot using heroku, 24/7!
+This bot is able to !gen
+
+! YAY! Fuck u
